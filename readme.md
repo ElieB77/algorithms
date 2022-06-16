@@ -1,1 +1,1 @@
-JS Algorithms
+Code Wars Algorithms
